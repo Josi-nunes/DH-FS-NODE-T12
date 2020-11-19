@@ -1,0 +1,49 @@
+main h1 main p{
+text-align: center;
+}
+ main h1{
+     font-size: 30px;
+ }
+
+ form{
+     width: 70%;
+     margin: 0 auto;
+
+ }
+
+ form label{
+     display: block;
+     font-size: 20px;
+     margin-bottom: 5px;
+ }
+ .form-inline{
+     display: inline-block;
+     margin:10px;
+ }
+
+ .form-inline input{
+     height: 20px;
+     width: 300px;
+ }
+
+ form textarea{
+     resize: none;
+     width: 300px;
+ }
+
+form button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #ffb90f;
+}
+.form-contact{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #ffb90f;
+  
+}
